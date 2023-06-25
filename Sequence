@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T22:35:39.354Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.55" etag="ooaUTktXe7-X7bJyR5uC" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-25T22:35:53.960Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.55" etag="tDJM67Ysdx3aQprzb_sc" version="21.5.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1071" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
           <mxGeometry x="110" y="245" width="240" height="65" as="geometry" />
         </mxCell>
         <mxCell id="lZg-2KiVSnT0b4f6WF2Q-15" value="Clicks on Products in Navbar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="95" y="310" width="110" height="65" as="geometry" />
+          <mxGeometry x="80" y="310" width="140" height="65" as="geometry" />
         </mxCell>
         <mxCell id="lZg-2KiVSnT0b4f6WF2Q-17" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;fontStyle=1;fontSize=14;strokeWidth=2;" edge="1" parent="1" target="lZg-2KiVSnT0b4f6WF2Q-19">
           <mxGeometry relative="1" as="geometry">
