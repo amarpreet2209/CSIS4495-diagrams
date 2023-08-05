@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-05T06:59:42.198Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="OxB56coakfDefXRl26aD" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-05T07:03:00.864Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="HJ3lAl191vVnzKYL5KIS" version="21.5.0" type="github">
   <diagram name="Page-1" id="igKEuE6RyJMRjBMo8wGY">
     <mxGraphModel dx="1071" dy="3802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -19,16 +19,10 @@
             <mxPoint x="200" y="-260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2WVy318mOLhB7sXqwARw-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2WVy318mOLhB7sXqwARw-1" edge="1">
+        <mxCell id="2WVy318mOLhB7sXqwARw-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="-110" as="sourcePoint" />
-            <mxPoint x="439.99999999999886" y="-146.49999999999955" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2WVy318mOLhB7sXqwARw-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.005;entryY=0.388;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="-71.5" as="sourcePoint" />
-            <mxPoint x="420.7500000000002" y="366.08399999999983" as="targetPoint" />
+            <mxPoint x="90" y="-147.09" as="sourcePoint" />
+            <mxPoint x="429.99999999999886" y="-147.08999999999955" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2WVy318mOLhB7sXqwARw-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="2WVy318mOLhB7sXqwARw-30" edge="1">
@@ -115,6 +109,51 @@
         </mxCell>
         <mxCell id="FOp-FHEVq5P7CfQ6BhnO-41" value="Add or update products to cart" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="-197.25" width="160" height="101.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FOp-FHEVq5P7CfQ6BhnO-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2WVy318mOLhB7sXqwARw-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="-9.840000000000003" as="sourcePoint" />
+            <mxPoint x="429.99999999999886" y="-9.839999999999549" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FOp-FHEVq5P7CfQ6BhnO-43" value="View Product Info" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="-60" width="160" height="101.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FOp-FHEVq5P7CfQ6BhnO-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2WVy318mOLhB7sXqwARw-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="-90" as="sourcePoint" />
+            <mxPoint x="419.99999999999886" y="132.16000000000045" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FOp-FHEVq5P7CfQ6BhnO-45" value="Add Review and Rating to Product" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="82" width="160" height="101.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FOp-FHEVq5P7CfQ6BhnO-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2WVy318mOLhB7sXqwARw-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="140" as="sourcePoint" />
+            <mxPoint x="419.99999999999886" y="262.1600000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FOp-FHEVq5P7CfQ6BhnO-47" value="Add/ Remove Products to/from Wishlist" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="212" width="160" height="101.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FOp-FHEVq5P7CfQ6BhnO-48" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2WVy318mOLhB7sXqwARw-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="41.5" as="sourcePoint" />
+            <mxPoint x="419.99999999999886" y="404.6600000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FOp-FHEVq5P7CfQ6BhnO-49" value="Filter and Sort Prorducts" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="354.5" width="160" height="101.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FOp-FHEVq5P7CfQ6BhnO-50" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="183.5" as="sourcePoint" />
+            <mxPoint x="419.99999999999886" y="546.6600000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FOp-FHEVq5P7CfQ6BhnO-51" value="Search Products" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="496.5" width="160" height="101.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
